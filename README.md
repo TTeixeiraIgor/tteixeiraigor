@@ -40,7 +40,7 @@ I enjoy solving difficult engineering problems while keeping software simple, ma
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,nodejs,django,flask,postgres,mysql,docker,azure,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,nodejs,django,flask,angular,vue,postgres,mysql,docker,azure,git,vscode,pycharm&perline=8&theme=dark" />
 
 </div>
 

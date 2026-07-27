@@ -50,9 +50,9 @@ I enjoy solving difficult engineering problems while keeping software simple, ma
 
 - 💼 Senior Software Engineer
 - 🤖 Building AI-powered applications
-- ☁️ Azure Cloud
+- ☁️ Azure Cloud / AWS
 - 🚀 Fintech & Enterprise Software
-- 🧠 Passionate about Software Architecture
+- 🧠 Passionate about Software Engineering
 - 🏅 NASA Space Apps Challenge — 2nd Place
 
 ---
@@ -61,9 +61,9 @@ I enjoy solving difficult engineering problems while keeping software simple, ma
 
 🇧🇷 Portuguese (Native)
 
-🇺🇸 English (Professional)
+🇺🇸 English (Fluent)
 
-🇩🇪 German (B1)
+🇩🇪 German (Intermediate)
 
 🇪🇸 Spanish (Intermediate)
 

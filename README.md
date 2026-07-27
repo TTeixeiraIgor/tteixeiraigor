@@ -1,30 +1,141 @@
-## Hello 🌎, i'm Igor Tenorio!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=160&section=header"/>
 
-## 🚀 About Me  
-- 📍 Based in **Berlin, Germany**  
-- 💻 Software Engineer | Application Developer and Architect
-- 🌍 Experienced in **DevOps, CyberSec, Databases, Infrastructure, BPA & BI**  
-- 🏆 Awards: 2nd place NASA Apps Challenge Hackathon, Final Paper Award 2019  
-- ⚡ Strong problem-solver, business-oriented, and team player
-- 🔭 Currently working on my Portfolio
+<div align="center">
 
-  
-## 🌱 I’m currently learning
-[<img src="https://static.wikia.nocookie.net/duolingo/images/5/50/German_flag.png" width="40"/>](https://www.duolingo.com/profile/Tnorio97) [<img src="https://static.wikia.nocookie.net/duolingo/images/f/f9/Spanish_flag.png" width="40"/>](https://www.duolingo.com/profile/Tnorio97)
+# Igor Teixeira
 
+### Senior Software Engineer • Python Backend • AI • Cloud • Fintech
 
-## 📫 How to reach me
-[<img src="https://skillicons.dev/icons?i=gmail" width="40"/>](mailto:igor.ttenorio@gmail.com) [<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>](https://www.linkedin.com/in/igor-ten%C3%B3rio) [<img src="https://www.vectorlogo.zone/logos/xing/xing-tile.svg" width="40"/>](https://www.xing.com/profile/Igor_Teixeira079533)
-<!--
-**IgorTTenorio/igorttenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building scalable backend systems, cloud-native applications and AI-powered solutions.
+</p>
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://linkedin.com/in/igor-tteixeira)
+[![](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=3B82F6)](mailto:igor.ttenorio@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a **Senior Software Engineer** based in **Berlin, Germany**, passionate about building scalable software, backend architectures and AI-powered products.
+
+Throughout my career I've worked across **Energy**, **Industrial Software** and **Fintech**, leading cloud migrations, developing enterprise applications and designing modern backend services.
+
+Currently I'm focused on:
+
+- 🐍 Python Backend
+- ⚡ REST APIs
+- ☁️ Microsoft Azure & Docker
+- 🤖 AI Applications & LLMs
+- 🏗 Software Architecture
+- 🚀 Building products that scale
+
+I enjoy solving difficult engineering problems while keeping software simple, maintainable and reliable.
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,nodejs,django,flask,postgres,mysql,docker,azure,git,github,vscode&perline=7" />
+
+</div>
+
+### Backend
+
+- Python
+- FastAPI
+- Flask
+- Django
+- REST APIs
+- SQL
+- PostgreSQL
+- SQL Server
+- MySQL
+
+### Cloud & DevOps
+
+- Microsoft Azure
+- Docker
+- Azure DevOps
+- CI/CD
+- Git
+
+### AI
+
+- Azure AI Foundry
+- LLM Applications
+- Prompt Engineering
+- Document Intelligence
+- LM Studio
+
+### Frontend
+
+- Angular
+- JavaScript
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🏆 Highlights
+
+- 💼 Senior Software Engineer
+- 🤖 Building AI-powered applications
+- ☁️ Azure Cloud
+- 🚀 Fintech & Enterprise Software
+- 🧠 Passionate about Software Architecture
+- 🏅 NASA Space Apps Challenge — 2nd Place
+
+---
+
+# 🌍 Languages
+
+🇧🇷 Portuguese (Native)
+
+🇺🇸 English (Professional)
+
+🇩🇪 German (B1)
+
+🇪🇸 Spanish (Intermediate)
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Python+Backend;Cloud+Architecture;AI+Applications;Always+Learning.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Building software that solves real problems."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1E3A8A&height=2"/>
+
+</div>

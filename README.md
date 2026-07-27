@@ -44,51 +44,6 @@ I enjoy solving difficult engineering problems while keeping software simple, ma
 
 </div>
 
-### Backend
-
-- Python
-- FastAPI
-- Flask
-- Django
-- REST APIs
-- SQL
-- PostgreSQL
-- SQL Server
-- MySQL
-
-### Cloud & DevOps
-
-- Microsoft Azure
-- Docker
-- Azure DevOps
-- CI/CD
-- Git
-
-### AI
-
-- Azure AI Foundry
-- LLM Applications
-- Prompt Engineering
-- Document Intelligence
-- LM Studio
-
-### Frontend
-
-- Angular
-- JavaScript
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark"/>
-
-</div>
-
 ---
 
 # 🏆 Highlights
@@ -122,11 +77,11 @@ I enjoy solving difficult engineering problems while keeping software simple, ma
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 My Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/tteixeiraigor/tteixeiraigor/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 

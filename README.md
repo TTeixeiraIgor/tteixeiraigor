@@ -80,9 +80,10 @@ I enjoy solving difficult engineering problems while keeping software simple, ma
 ## 🐍 My Activity
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/tteixeiraigor/tteixeiraigor/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img
+    src="https://raw.githubusercontent.com/tteixeiraigor/tteixeiraigor/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake Animation"
+  />
 </div>
 
 ---

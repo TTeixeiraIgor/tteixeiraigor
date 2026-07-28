@@ -77,7 +77,7 @@ I enjoy solving difficult engineering problems while keeping software simple, ma
 
 ---
 
-## 🐍 My Activity
+# 🐍 Every Commit Counts
 
 <div align="center">
   <img
